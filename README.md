@@ -1,1 +1,1 @@
-<h1>Lontong</h1>
+<h1 align="center">Lontong</h1>
